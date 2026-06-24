@@ -1,0 +1,9 @@
+label,message
+spam,"Congratulations! You won a free lottery prize"
+spam,"Click this link to claim your reward"
+spam,"You have received a free gift voucher"
+ham,"Your meeting is scheduled at 10 AM"
+ham,"Can you send me the project details"
+ham,"I will call you tomorrow"
+spam,"Win cash prizes by clicking this link"
+ham,"Don't forget to submit your assignment"
