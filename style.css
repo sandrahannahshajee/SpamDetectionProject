@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    margin-top:50px;
+}
+
+textarea{
+    width:400px;
+    height:150px;
+}
+
+button{
+    padding:10px 20px;
+    margin-top:20px;
+}
